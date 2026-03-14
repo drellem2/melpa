@@ -1,0 +1,3 @@
+(pogo :fetcher github
+      :repo "drellem2/pogo"
+      :files ("emacs/*.el"))
